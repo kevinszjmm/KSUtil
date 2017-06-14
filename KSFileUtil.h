@@ -1,6 +1,5 @@
 //
 //  KSFileUtil.h
-//  KevinExamples
 //
 //  Created by zhejunshen on 17/6/14.
 //  Copyright © 2017年 zhejunshen. All rights reserved.
